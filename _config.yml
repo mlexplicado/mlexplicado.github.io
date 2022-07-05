@@ -1,17 +1,17 @@
 # Site Settings
 encoding                 : "utf-8"
-locale                   : "en"
-title                    : "Sparrow"
+locale                   : "br"
+title                    : "Machine Learning Explicado"
 title_separator          : "-"
-description              : "A clean and minimal theme for writers."
+description              : "Inteligência Artificial, Aprendizado de Máquina e Ciência de Dados"
 favicon                  : "/assets/images/bird.png"
 avatar                   : "/assets/images/bird.png"
-url                      : "https://theconfused.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/sparrow" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+url                      : "https://mlexplicado.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" #"/sparrow" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
 author:
-  name                   : "Lingyi" # appears in the footer and atom feed
+  name                   : "Luiz F. S. Coletta" # appears in the footer and atom feed
 
 comments                 : true # set it to false to disable comments
 disqus:
