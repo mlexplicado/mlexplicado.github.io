@@ -1,0 +1,8 @@
+# Funções de Perda em Machine Learning
+
+Date: July 4, 2022
+Tags: Machine Learning
+
+Na [otimização matemática](https://pt.m.wikipedia.org/wiki/Otimiza%C3%A7%C3%A3o), [estatística](https://pt.m.wikipedia.org/wiki/Estat%C3%ADstica), [teoria da decisão](https://pt.m.wikipedia.org/wiki/Teoria_da_decis%C3%A3o), [aprendizado de máquina](https://pt.m.wikipedia.org/wiki/Aprendizado_de_m%C3%A1quina) e [neurociência computacional](https://pt.m.wikipedia.org/wiki/Neuroci%C3%AAncia_computacional), uma **função de perda** ou **função de custo** é uma função que mapeia um evento ou valores de uma ou mais variáveis num [número real](https://pt.m.wikipedia.org/wiki/N%C3%BAmero_real) intuitivamente representando algum "custo" associado ao evento. Um [problema de otimização](https://pt.m.wikipedia.org/wiki/Problema_de_otimiza%C3%A7%C3%A3o) procura minimizar uma função de perda. Uma função objetivo é uma função de perda ou sua função negativa (às vezes chamada função de recompensa, função de lucro, função de utilidade, função de aptidão, etc.), neste caso, ela deve ser maximizada
+
+Em problemas de otimização matemática, uma função objetivo pode ser uma função de aptidão que deve ser maximizada ou sua contraparte, uma função de perda ou custo, a qual deve ser minimizada. Em Aprendizado de Máquina, tais funções de perda são os meios de medir o desempenho de um modelo de aprendizado, sendo instrumentos para materialização da definição de Aprendizado dada por Tom Mitchell.
