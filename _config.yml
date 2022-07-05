@@ -5,7 +5,7 @@ title                    : "Machine Learning Explicado"
 title_separator          : "-"
 description              : "Inteligência Artificial, Aprendizado de Máquina e Ciência de Dados"
 favicon                  : "/assets/images/bird.png"
-avatar                   : "/assets/images/bird.png"
+avatar                   : "/assets/images/MLExpMainLogo.png"
 url                      : "https://mlexplicado.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" #"/sparrow" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
